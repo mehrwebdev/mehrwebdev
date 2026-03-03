@@ -1,16 +1,16 @@
-## Hi there 👋
+I am Mehr Hayat
+Front-End Web Developer
+I build modern, responsive websites for businesses and startups. Focused on clean UI, performance, and scalable frontend architecture.
 
-<!--
-**mehrwebdev/mehrwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills :
+HTML5 · CSS3 · JavaScript · Responsive Design · Git · GitHub
 
-Here are some ideas to get you started:
+Work:
+Frontend builds including business websites, restaurant demos, and portfolio projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Available For:
+Freelance projects and frontend collaborations.
+
+Contact:
+meharbiyar7@gmail.com
+[https://www.fiverr.com/s/Eg7aDXD](https://www.fiverr.com/s/wk8Nd5g) ]
