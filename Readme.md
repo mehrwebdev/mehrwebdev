@@ -1,4 +1,6 @@
-I am Mehr Hayat
+HI There ! 
+I am 
+Mehr Biyar
 
 Front-End Web Developer
 I build modern, responsive websites for businesses and startups. Focused on clean UI, performance, and scalable frontend architecture.
