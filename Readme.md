@@ -1,9 +1,12 @@
 I am Mehr Hayat
+
 Front-End Web Developer
 I build modern, responsive websites for businesses and startups. Focused on clean UI, performance, and scalable frontend architecture.
 
+
 Skills :
 HTML5 · CSS3 · JavaScript · Responsive Design · Git · GitHub
+
 
 Work:
 Frontend builds including business websites, restaurant demos, and portfolio projects.
